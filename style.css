@@ -7,7 +7,7 @@
 body{
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(120deg , red , blue);
+    background-image: linear-gradient(120deg , aqua , rgb(60, 232, 30));
     text-align: center;
     color: #ffff;
 }
